@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|c:\\users\\owner\\documents\\github\\2024\\server\\gameserver\\gameserver\\game\\room\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\game\\room\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|c:\\users\\owner\\documents\\github\\2024\\server\\gameserver\\gameserver\\protocol\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\protocol\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|c:\\users\\owner\\documents\\github\\2024\\server\\gameserver\\gameserver\\protocol\\serverpacketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\protocol\\serverpacketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|c:\\users\\owner\\documents\\github\\2024\\server\\gameserver\\gameserver\\protocol\\generated\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\protocol\\generated\\protocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|c:\\users\\owner\\documents\\github\\2024\\server\\gameserver\\gameserver\\game\\object\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\game\\object\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|c:\\users\\owner\\documents\\github\\2024\\server\\gameserver\\gameserver\\game\\object\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\game\\object\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|c:\\users\\owner\\documents\\github\\2024\\server\\gameserver\\gameserver\\game\\object\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\game\\object\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|c:\\users\\owner\\documents\\github\\2024\\server\\gameserver\\gameserver\\game\\object\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\game\\object\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3C01E3-CE64-4E89-BA79-C859EC3BEC9E}|PacketGenerator\\PacketGenerator.csproj|c:\\users\\owner\\documents\\github\\2024\\server\\gameserver\\packetgenerator\\packetformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3C01E3-CE64-4E89-BA79-C859EC3BEC9E}|PacketGenerator\\PacketGenerator.csproj|solutionrelative:packetgenerator\\packetformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|c:\\users\\owner\\documents\\github\\2024\\server\\gameserver\\gameserver\\session\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\session\\clientsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|c:\\users\\owner\\documents\\github\\2024\\server\\gameserver\\gameserver\\game\\object\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C541317A-FFDF-4B19-A795-B79B5CB09314}|GameServer\\GameServer.csproj|solutionrelative:gameserver\\game\\object\\objectmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Protocol.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Protocol\\Generated\\Protocol.cs",
+              "RelativeDocumentMoniker": "GameServer\\Protocol\\Generated\\Protocol.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Protocol\\Generated\\Protocol.cs",
+              "RelativeToolTip": "GameServer\\Protocol\\Generated\\Protocol.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAswGoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:01:45.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerPacketManager.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Protocol\\ServerPacketManager.cs",
+              "RelativeDocumentMoniker": "GameServer\\Protocol\\ServerPacketManager.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Protocol\\ServerPacketManager.cs",
+              "RelativeToolTip": "GameServer\\Protocol\\ServerPacketManager.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAWwB8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:01:36.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Game\\Object\\Item.cs",
+              "RelativeDocumentMoniker": "GameServer\\Game\\Object\\Item.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Game\\Object\\Item.cs",
+              "RelativeToolTip": "GameServer\\Game\\Object\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T00:33:15.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientSession.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Session\\ClientSession.cs",
+              "RelativeDocumentMoniker": "GameServer\\Session\\ClientSession.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Session\\ClientSession.cs",
+              "RelativeToolTip": "GameServer\\Session\\ClientSession.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAnwEAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:49:32.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bomb.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Game\\Object\\Bomb.cs",
+              "RelativeDocumentMoniker": "GameServer\\Game\\Object\\Bomb.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Game\\Object\\Bomb.cs",
+              "RelativeToolTip": "GameServer\\Game\\Object\\Bomb.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAACoAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:49:29.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Game\\Room\\GameRoom.cs",
+              "RelativeDocumentMoniker": "GameServer\\Game\\Room\\GameRoom.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Game\\Room\\GameRoom.cs",
+              "RelativeToolTip": "GameServer\\Game\\Room\\GameRoom.cs",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAAAAcBAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:31:41.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PacketFormat.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\PacketGenerator\\PacketFormat.cs",
+              "RelativeDocumentMoniker": "PacketGenerator\\PacketFormat.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\PacketGenerator\\PacketFormat.cs",
+              "RelativeToolTip": "PacketGenerator\\PacketFormat.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAnwFEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:49:39.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Protocol\\PacketHandler.cs",
+              "RelativeDocumentMoniker": "GameServer\\Protocol\\PacketHandler.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Protocol\\PacketHandler.cs",
+              "RelativeToolTip": "GameServer\\Protocol\\PacketHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:11:29.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Game\\Object\\GameObject.cs",
+              "RelativeDocumentMoniker": "GameServer\\Game\\Object\\GameObject.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Game\\Object\\GameObject.cs",
+              "RelativeToolTip": "GameServer\\Game\\Object\\GameObject.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAnwIQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:31:44.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ObjectManager.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Game\\Object\\ObjectManager.cs",
+              "RelativeDocumentMoniker": "GameServer\\Game\\Object\\ObjectManager.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Game\\Object\\ObjectManager.cs",
+              "RelativeToolTip": "GameServer\\Game\\Object\\ObjectManager.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAnwCwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:31:43.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Game\\Object\\Player.cs",
+              "RelativeDocumentMoniker": "GameServer\\Game\\Object\\Player.cs",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\2024\\Server\\GameServer\\GameServer\\Game\\Object\\Player.cs",
+              "RelativeToolTip": "GameServer\\Game\\Object\\Player.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:31:43.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 171,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
